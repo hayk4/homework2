@@ -1,0 +1,31 @@
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Kl49hXZQo9OJL1AONEFmljY4znyknR0Ps5VJc-QlwgNe-yHj);
+	background-size: cover;
+}
+div{
+	color: white;
+	text-align: center;
+}
+	.charox{
+		font-size:50px;
+	}
+	p{
+		color: red;
+		text-align: center;
+		font-size: 60px;
+	}
+	a{
+		color: blue;
+		font-size: 60px;
+	}
+	img{
+		position: right-center;
+	#apeape{
+		color: white;
+		text-align: center;
+	}
+	.apeape {
+		color: white;
+		text-align: center;
+		font-size: 50px;
+	}
